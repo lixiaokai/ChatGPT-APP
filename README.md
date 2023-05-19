@@ -1,5 +1,7 @@
 # ChatGPT 应用网站收集列表
 
+不需要 `APIKey` 需要 `魔法`
+
 | 网站                                                  | 模型                          |
 | ---------------------------------------------------- | ------------------------------- |
 | [chatbot.sex](https://chat.chatbot.sex/chat/)        | GPT-4/3.5                       |
@@ -14,4 +16,4 @@
 | [bing.com/chat](https://bing.com/chat)               | GPT-4/3.5                       |
 | [chat.forefront.ai](https://chat.forefront.ai)       | GPT-4/3.5                       |
 | [ora.sh](https://ora.sh)                             | GPT-4/3.5                       |
-| [ShellGPT 多平台客户端合集]([https://ora.sh](https://github.com/akl7777777/free-chatgpt-client-pub/))  | GPT-4/3.5 |
+| [ShellGPT 多平台客户端合集](https://github.com/akl7777777/free-chatgpt-client-pub/)  | GPT-4/3.5 |
