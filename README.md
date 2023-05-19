@@ -14,3 +14,4 @@
 | [bing.com/chat](https://bing.com/chat)               | GPT-4/3.5                       |
 | [chat.forefront.ai](https://chat.forefront.ai)       | GPT-4/3.5                       |
 | [ora.sh](https://ora.sh)                             | GPT-4/3.5                       |
+| [ShellGPT 多平台客户端合集]([https://ora.sh](https://github.com/akl7777777/free-chatgpt-client-pub/))  | GPT-4/3.5 |
